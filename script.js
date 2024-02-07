@@ -1,7 +1,7 @@
 const news_box = document.getElementById('news')
 const top_news_card = document.getElementById('top_news_card')
 const news_heading = document.getElementById('news_heading')
-const API_KEY = ''; //Enter your API key here. Get from https://newsapi.org/
+const API_KEY = '4f857569fdbe42879b62c31c727a79b8'; //Enter your API key here. Get from https://newsapi.org/
 const loader = `<div class="d-flex justify-content-center mt-5">
 <div class="spinner-border" role="status">
   <span class="visually-hidden">Loading...</span>
